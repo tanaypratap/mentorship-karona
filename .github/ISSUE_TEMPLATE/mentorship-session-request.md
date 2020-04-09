@@ -1,7 +1,7 @@
 ---
 name: mentorship session request
 about: If you need a mentorship session, use this template
-title: "[Mentorship Session Request][Session Domain] <Put your student group/college name here>"
+title: "[Mentorship Session Request][ <Session Domain> ] <Put your student group/college name here>"
 labels: ''
 assignees: ''
 
