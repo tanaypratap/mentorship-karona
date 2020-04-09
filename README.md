@@ -13,8 +13,8 @@ Simple, students in colleges need to connect to industry experts. During corona 
 ## how to
 
 If you need a session with mentors raise an issue.
-	* Please fill the issue according to the [template](https://github.com/tanaypratap/mentorship-karona/blob/master/.github/ISSUE_TEMPLATE/mentorship-session-request.md). 
-	* Based on your requirements one or more mentors will contact by commenting on the issue.
+- Please fill the issue according to the [template](https://github.com/tanaypratap/mentorship-karona/blob/master/.github/ISSUE_TEMPLATE/mentorship-session-request.md). 
+- Based on your requirements one or more mentors will contact by commenting on the issue.
 
 If you're someone who wants to mentor student groups. Raise a PR with details on this file i.e. the readme file.
 
