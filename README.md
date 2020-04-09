@@ -35,7 +35,7 @@ This is not a continued mentorship process. You will be assigned a talk only aft
 [Try to go alphabetical when sending PRs, attach one online link for students/organisers to know more about you]
 
 ### Aditya Agarwal
-Frontend Dev at HackerRank. Mostly work with JavaScript/React/CSS. Also does Node.js scripting. 
+Frontend Dev at HackerRank. Mostly work with JavaScript/React/CSS. Also does Node.js scripting. Past: GSoC with Probot(GitHub)
 
 ### Ajinkya Kolhe
 Data Analytics & Machine Learning Instructor at Google. Area of Expertise: Google Cloud & Machine Learning. Check linkedin profile for more details on https://www.linkedin.com/in/ajinkyakolhe112/
