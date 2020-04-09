@@ -24,9 +24,10 @@ create some awareness in your community, whether you're a student or mentor.
 ## mentors
 [Try to go alphabetical when sending PRs, attach one online link for students/organisers to know more about you]
 
+### Ajinkya Kolhe
+Data Analytics & Machine Learning Instructor at Google. Area of Expertise: Google Cloud & Machine Learning. Check linkedin profile for more details on https://www.linkedin.com/in/ajinkyakolhe112/
+
 ### Tanay Pratap
 Engineer at Microsoft, works with React/Typescript/JavaScript. Likes to teach and give talks. Mentors students on various social media platforms. 
 Know more about him on  https://tanaypratap.com 
 
-### Ajinkya Kolhe
-Data Analytics & Machine Learning Instructor at Google. Area of Expertise: Google Cloud & Machine Learning. Check linkedin profile for more details on https://www.linkedin.com/in/ajinkyakolhe112/
