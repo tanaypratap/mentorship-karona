@@ -27,6 +27,11 @@ create some awareness in your community, whether you're a student or mentor.
 ### Ajinkya Kolhe
 Data Analytics & Machine Learning Instructor at Google. Area of Expertise: Google Cloud & Machine Learning. Check linkedin profile for more details on https://www.linkedin.com/in/ajinkyakolhe112/
 
+### Priyadeep Sinha
+Seeding Mass Entrepreneurship in India | Vice-President @ GAME | TEDx B'lore Speaker | 9+ years as an Entrepreneur
+Loves to talk about Education, Startups and Mass Entrepreneurship. Check LinkedIn profile for more details.
+https://www.linkedin.com/in/priyadeep-sinha/
+
 ### Tanay Pratap
 Engineer at Microsoft, works with React/Typescript/JavaScript. Likes to teach and give talks. Mentors students on various social media platforms. 
 Know more about him on  https://tanaypratap.com 
