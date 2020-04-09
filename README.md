@@ -37,6 +37,10 @@ This is not a continued mentorship process. You will be assigned a talk only aft
 ### Ajinkya Kolhe
 Data Analytics & Machine Learning Instructor at Google. Area of Expertise: Google Cloud & Machine Learning. Check linkedin profile for more details on https://www.linkedin.com/in/ajinkyakolhe112/
 
+### Ankur Anand
+Developer at SAP Labs India, Mostly works with Go(Golang), JavaScript(Node.js), Kubernetes and Distributed System.
+More at https://ankuranand.com 
+
 ### Priyadeep Sinha
 Seeding Mass Entrepreneurship in India | Vice-President @ GAME | TEDx B'lore Speaker | 9+ years as an Entrepreneur
 Loves to talk about Education, Startups and Mass Entrepreneurship. Check LinkedIn profile for more details.
