@@ -55,5 +55,8 @@ Know more about him on https://www.linkedin.com/in/yadavsudhanshu/
 
 ### Tanay Pratap
 Engineer at Microsoft, works with React/Typescript/JavaScript. Likes to teach and give talks. Mentors students on various social media platforms. 
-Know more about him on  https://tanaypratap.com 
+Know more about him on https://tanaypratap.com
+
+### Vinit Shahdeo
+Software Engineer at [Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) | Project Admin at [RGSoC](http://railsgirlssummerofcode.org/) & [GSSoC](https://www.gssoc.tech/) | Adores JavaScript | Learn more about me [here](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo) | [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/) ❯ [GitHub](https://github.com/vinitshahdeo) ❯ [Twitter](https://twitter.com/Vinit_Shahdeo)
 
