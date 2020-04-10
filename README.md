@@ -49,6 +49,10 @@ Seeding Mass Entrepreneurship in India | Vice-President @ GAME | TEDx B'lore Spe
 Loves to talk about Education, Startups and Mass Entrepreneurship. Check LinkedIn profile for more details.
 https://www.linkedin.com/in/priyadeep-sinha/
 
+### Sudhanshu Yadav
+Frontend Architect at HackerRank. Tooling, JavaScript, React and Internals of libraries are areas of interest. An active open source contributor and love to talk about Frontend technologies, Architecture, and Patterns. 
+Know more about him on https://www.linkedin.com/in/yadavsudhanshu/
+
 ### Tanay Pratap
 Engineer at Microsoft, works with React/Typescript/JavaScript. Likes to teach and give talks. Mentors students on various social media platforms. 
 Know more about him on  https://tanaypratap.com 
