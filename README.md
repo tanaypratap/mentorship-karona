@@ -44,6 +44,10 @@ Data Analytics & Machine Learning Instructor at Google. Area of Expertise: Googl
 Developer at SAP Labs India, Mostly works with Go(Golang), JavaScript(Node.js), Kubernetes and Distributed System.
 More at https://ankuranand.com 
 
+### Kanishk Agrawal
+UI Engineer at Flipkart, graduated from IIIT-G in 2018. Works on JavaScript, React, Angular, CSS. Likes teaching, taught over 20K Students for IITJEE in past. 
+Know more at [Linkedin](https://www.linkedin.com/in/agrawalkanishk3004/) [Twitter](https://twitter.com/KanishkAgrawal).
+
 ### Nirav Madariya
 Cloud Developer at Infosys, India | Technologies : .net, Web Deveopment, jQuery, Azure | Microsoft Certified : Azure Solutions Architect Expert | Know More : https://niravmadariya.com
 
