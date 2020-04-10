@@ -47,6 +47,10 @@ Developer @olxpeople, I have infinite love for JavaScript and opensource. I love
 Developer at SAP Labs India, Mostly works with Go(Golang), JavaScript(Node.js), Kubernetes and Distributed System.
 More at https://ankuranand.com 
 
+### Chirag Jain
+Software Engineer at Google India. I can help with Web Architecture and Career Development.
+[LinkedIn](https://www.linkedin.com/in/chirgjn) [Twitter](https://twitter.com/cjTheDev)
+
 ### Kanishk Agrawal
 UI Engineer at Flipkart, graduated from IIIT-G in 2018. Works on JavaScript, React, Angular, CSS. Likes teaching, taught over 20K Students for IITJEE in past. 
 Know more at [Linkedin](https://www.linkedin.com/in/agrawalkanishk3004/) [Twitter](https://twitter.com/KanishkAgrawal).
