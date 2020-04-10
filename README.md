@@ -34,6 +34,9 @@ This is not a continued mentorship process. You will be assigned a talk only aft
 ## mentors
 [Try to go alphabetical when sending PRs, attach one online link for students/organisers to know more about you]
 
+### Naman Kheterpal
+JS Enthusiast @Adobe. Working Experience with all the JS frameworks and libraries (React, Preact, Angular, Ember, ReactNative, Ionic, Electron......). Contributor in PReact and Unistore. Run online web dev comunity (connect me likenIn if interested to join). Mentor and help upcoming talent to grow in JS world, prepare for interview and make own products. Would love to connect with you https://www.linkedin.com/in/namankheterpal/
+
 ### Aditya Agarwal
 Frontend Dev at HackerRank. Mostly work with JavaScript/React/CSS. Also does Node.js scripting. Past: GSoC with Probot(GitHub). More details on https://devadi.netlify.com/
 
@@ -72,4 +75,3 @@ Know more about him on https://tanaypratap.com
 
 ### Vinit Shahdeo
 Software Engineer at [Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) | Project Admin at [RGSoC](http://railsgirlssummerofcode.org/) & [GSSoC](https://www.gssoc.tech/) | Adores JavaScript | I work with all kinds of modern JavaScript (React, NodeJS etc). Over and above, I possess accountable knowledge of OOPs concepts. |  I am addicted to green dots on GitHub. | Learn more about me [here](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo) | [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/) ❯ [GitHub](https://github.com/vinitshahdeo) ❯ [Twitter](https://twitter.com/Vinit_Shahdeo)
-
