@@ -52,6 +52,9 @@ Seeding Mass Entrepreneurship in India | Vice-President @ GAME | TEDx B'lore Spe
 Loves to talk about Education, Startups and Mass Entrepreneurship. Check LinkedIn profile for more details.
 https://www.linkedin.com/in/priyadeep-sinha/
 
+### Shashwat Jolly
+Upcoming Software Developer at Microsoft, Redmond | Former intern at Microsoft, Banglore | Final year student at IIT Guwahati | Has done a little of many things - JavaScript, TypeSctipt, React, Node, Django, Open Source and Competitive Programming | Still figuring out life :) | Find him at https://www.linkedin.com/in/shashwatjolly/
+
 ### Sudhanshu Yadav
 Frontend Architect at HackerRank. Tooling, JavaScript, React and Internals of libraries are areas of interest. An active open source contributor and love to talk about Frontend technologies, Architecture, and Patterns. 
 Know more about him on https://www.linkedin.com/in/yadavsudhanshu/
