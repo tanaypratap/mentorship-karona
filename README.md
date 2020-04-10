@@ -45,7 +45,7 @@ Developer at SAP Labs India, Mostly works with Go(Golang), JavaScript(Node.js), 
 More at https://ankuranand.com 
 
 ### Kanishk Agrawal
-UI Engineer at Flipkart. Works on JavaScript, React, Angular, CSS. Likes teaching, taught over 20K Students for IITJEE in past. 
+UI Engineer at Flipkart, graduated from IIIT-G in 2018. Works on JavaScript, React, Angular, CSS. Likes teaching, taught over 20K Students for IITJEE in past. 
 Know more at [Linkedin](https://www.linkedin.com/in/agrawalkanishk3004/) [Twitter](https://twitter.com/KanishkAgrawal).
 
 ### Nirav Madariya
