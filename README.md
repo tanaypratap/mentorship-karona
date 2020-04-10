@@ -40,6 +40,9 @@ Frontend Dev at HackerRank. Mostly work with JavaScript/React/CSS. Also does Nod
 ### Ajinkya Kolhe
 Data Analytics & Machine Learning Instructor at Google. Area of Expertise: Google Cloud & Machine Learning. Check linkedin profile for more details on https://www.linkedin.com/in/ajinkyakolhe112/
 
+### Ameer Jhan
+Developer @olxpeople, I have infinite love for JavaScript and opensource. I love building scalable and maintainable applications using the right set of tools. Check my github profile for more details on https://www.github.com/ameerthehacker
+
 ### Ankur Anand
 Developer at SAP Labs India, Mostly works with Go(Golang), JavaScript(Node.js), Kubernetes and Distributed System.
 More at https://ankuranand.com 
