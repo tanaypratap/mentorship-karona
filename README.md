@@ -69,6 +69,9 @@ Upcoming Software Developer at Microsoft, Redmond | Former intern at Microsoft, 
 Frontend Architect at HackerRank. Tooling, JavaScript, React and Internals of libraries are areas of interest. An active open source contributor and love to talk about Frontend technologies, Architecture, and Patterns. 
 Know more about him on https://www.linkedin.com/in/yadavsudhanshu/
 
+### Swapnil Agarwal
+Co-Founder at Requestly. Worked as a Software Developer at Amazon and as a Product Manager at Meesho in the past. Loves books and consistency. More at https://swapnil.net
+
 ### Tanay Pratap
 Engineer at Microsoft, works with React/Typescript/JavaScript. Likes to teach and give talks. Mentors students on various social media platforms. 
 Know more about him on https://tanaypratap.com
