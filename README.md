@@ -62,6 +62,9 @@ Seeding Mass Entrepreneurship in India | Vice-President @ GAME | TEDx B'lore Spe
 Loves to talk about Education, Startups and Mass Entrepreneurship. Check LinkedIn profile for more details.
 https://www.linkedin.com/in/priyadeep-sinha/
 
+### Saurabh Mhatre
+Frontend developer at Crowdfire. Previously worked in Reliance Jio. Have 4 years of experience in frontend development. I have knowledge of development in React, Reactnative and Node.js. Conducted weekend workshops in frontend development in engineering colleges previously. Know more at: https://www.linkedin.com/in/saurabh-mhatre 
+
 ### Shashwat Jolly
 Upcoming Software Developer at Microsoft, Redmond | Former intern at Microsoft, Banglore | Final year student at IIT Guwahati | Has done a little of many things - JavaScript, TypeSctipt, React, Node, Django, Open Source and Competitive Programming | Still figuring out life :) | Find him at https://www.linkedin.com/in/shashwatjolly/
 
