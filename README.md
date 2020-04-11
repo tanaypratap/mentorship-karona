@@ -76,5 +76,9 @@ Co-Founder at Requestly. Worked as a Software Developer at Amazon and as a Produ
 Engineer at Microsoft, works with React/Typescript/JavaScript. Likes to teach and give talks. Mentors students on various social media platforms. 
 Know more about him on https://tanaypratap.com
 
+### Vidyadhar Sharma
+Full-Stack Maker. Founder @ [Speckbit](https://www.speckbit.com) | Started my first startup at 16, while in high-school. I now coach & help students on starting up while in college. | I also teach people how to code & build things. | I'd love to talk about Python, Django, VueJS, jQuery, Student Makers, Starting Early & Hacking your way into Startups. Learn more at http://www.vidyadhar.xyz/about/
+
+
 ### Vinit Shahdeo
 Software Engineer at [Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) | Project Admin at [RGSoC](http://railsgirlssummerofcode.org/) & [GSSoC](https://www.gssoc.tech/) | Adores JavaScript | React, NodeJS, PWA | OOPS, TDD | Addicted to green dots on GitHub | Learn more about me [here](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo) | [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/) ❯ [GitHub](https://github.com/vinitshahdeo) ❯ [Twitter](https://twitter.com/Vinit_Shahdeo)
