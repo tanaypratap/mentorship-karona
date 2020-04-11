@@ -34,9 +34,6 @@ This is not a continued mentorship process. You will be assigned a talk only aft
 ## mentors
 [Try to go alphabetical when sending PRs, attach one online link for students/organisers to know more about you]
 
-### Naman Kheterpal
-JS Enthusiast @Adobe. Working Experience with all the JS frameworks and libraries (React, Preact, Angular, Ember, ReactNative, Ionic, Electron......). Contributor in PReact and Unistore. Run online web dev comunity (connect me likenIn if interested to join). Mentor and help upcoming talent to grow in JS world, prepare for interview and make own products. Would love to connect with you https://www.linkedin.com/in/namankheterpal/
-
 ### Aditya Agarwal
 Frontend Dev at HackerRank. Mostly work with JavaScript/React/CSS. Also does Node.js scripting. Past: GSoC with Probot(GitHub). More details on https://devadi.netlify.com/
 
@@ -53,6 +50,9 @@ More at https://ankuranand.com
 ### Kanishk Agrawal
 UI Engineer at Flipkart, graduated from IIIT-G in 2018. Works on JavaScript, React, Angular, CSS. Likes teaching, taught over 20K Students for IITJEE in past. 
 Know more at [Linkedin](https://www.linkedin.com/in/agrawalkanishk3004/) [Twitter](https://twitter.com/KanishkAgrawal).
+
+### Naman Kheterpal
+JS Enthusiast @Adobe. Working Experience with all the JS frameworks and libraries (React, Preact, Angular, Ember, ReactNative, Ionic, Electron......). Contributor in PReact and Unistore. Run online web dev comunity (connect me likenIn if interested to join). Mentor and help upcoming talent to grow in JS world, prepare for interview and make own products. Would love to connect with you https://www.linkedin.com/in/namankheterpal/
 
 ### Nirav Madariya
 Cloud Developer at Infosys, India | Technologies : .net, Web Deveopment, jQuery, Azure | Microsoft Certified : Azure Solutions Architect Expert | Know More : https://niravmadariya.com
