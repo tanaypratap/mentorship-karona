@@ -23,6 +23,6 @@ assignees: ''
 
 ## Preferred Timing?
 
-## Mentor suggestion(_Have a look to mentor's list and then suggest_)
+## Mentor suggestion/preference?(_have a look to mentor's list and then suggest_)
 
 ## Your Name and Contact Details
