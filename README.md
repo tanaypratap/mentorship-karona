@@ -55,6 +55,11 @@ Software Engineer at Google India. I can help with Web Architecture and Career D
 UI Engineer at Flipkart, graduated from IIIT-G in 2018. Works on JavaScript, React, Angular, CSS. Likes teaching, taught over 20K Students for IITJEE in past. 
 Know more at [Linkedin](https://www.linkedin.com/in/agrawalkanishk3004/) [Twitter](https://twitter.com/KanishkAgrawal).
 
+### Kumar Gaurav
+Software Engineer at [Coviam Technologies](https://www.linkedin.com/company/coviam/). I have created VideoStreaming sercive ([blibliplay](https://blibliplay.com)) for blibli from scratch and am currently working with blibli's search team.
+I work mostly with JavaScript and MEVN stack. I can help in developing entire web-apps.
+[LinkedIn](https://www.linkedin.com/in/ikumargaurav/) [Twitter](https://twitter.com/ikmrgrv)
+
 ### Naman Kheterpal
 JS Enthusiast @Adobe. Working Experience with all the JS frameworks and libraries (React, Preact, Angular, Ember, ReactNative, Ionic, Electron......). Contributor in PReact and Unistore. Run online web dev comunity (connect me likenIn if interested to join). Mentor and help upcoming talent to grow in JS world, prepare for interview and make own products. Would love to connect with you https://www.linkedin.com/in/namankheterpal/
 
