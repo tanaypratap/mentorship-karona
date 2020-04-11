@@ -21,8 +21,9 @@ _Anything and everything_ you want to learn. Raise a issue if you see a mentor f
 
 ### if you're a student or student group representative
 If you need a session with mentors raise an issue.
-- Please fill the issue according to the [template](https://github.com/tanaypratap/mentorship-karona/blob/master/.github/ISSUE_TEMPLATE/mentorship-session-request.md). 
-- Based on your requirements one or more mentors will contact by commenting on the issue.
+- Please fill the issue according to the [template](https://github.com/tanaypratap/mentorship-karona/blob/master/.github/ISSUE_TEMPLATE/mentorship-session-request.md) 
+- Based on your requirements one or more mentors will contact by commenting on the issue
+- Once event session is scheduled kinldy update the details inside `EVENTS.md` file.
 
 ### if you're a mentor
 If you're someone who wants to mentor student groups. 
