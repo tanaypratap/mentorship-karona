@@ -90,3 +90,6 @@ Full-Stack Maker. Founder @ [Speckbit](https://www.speckbit.com) | Started my fi
 
 ### Vinit Shahdeo
 Software Engineer at [Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) | Project Admin at [RGSoC](http://railsgirlssummerofcode.org/) & [GSSoC](https://www.gssoc.tech/) | Adores JavaScript | React, NodeJS, PWA | OOPS, TDD | Addicted to green dots on GitHub | Learn more about me [here](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo) | [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/) ❯ [GitHub](https://github.com/vinitshahdeo) ❯ [Twitter](https://twitter.com/Vinit_Shahdeo)
+
+### Souvik Saha
+Software Engineer at Microsoft. Key terms related to my work: React | Typescript | Javascript | Mobx | A11y. Fresher in the industry. Graduated from IIT Dhanbad. Aspiring community speaker. Learn more about me > [LinkedIn](https://www.linkedin.com/in/xanthis23/) | [Twitter](https://twitter.com/xanthis23)
