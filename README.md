@@ -73,6 +73,9 @@ Frontend developer at Crowdfire. Previously worked in Reliance Jio. Have 4 years
 ### Shashwat Jolly
 Upcoming Software Developer at Microsoft, Redmond | Former intern at Microsoft, Banglore | Final year student at IIT Guwahati | Has done a little of many things - JavaScript, TypeSctipt, React, Node, Django, Open Source and Competitive Programming | Still figuring out life :) | Find him at https://www.linkedin.com/in/shashwatjolly/
 
+### Souvik Saha
+Software Engineer at Microsoft. Key terms related to my work: React | Typescript | Javascript | Mobx | A11y. Fresher in the industry. Graduated from IIT Dhanbad. Aspiring community speaker. Learn more about me > [LinkedIn](https://www.linkedin.com/in/xanthis23/) | [Twitter](https://twitter.com/xanthis23)
+
 ### Sudhanshu Yadav
 Frontend Architect at HackerRank. Tooling, JavaScript, React and Internals of libraries are areas of interest. An active open source contributor and love to talk about Frontend technologies, Architecture, and Patterns. 
 Know more about him on https://www.linkedin.com/in/yadavsudhanshu/
@@ -87,9 +90,5 @@ Know more about him on https://tanaypratap.com
 ### Vidyadhar Sharma
 Full-Stack Maker. Founder @ [Speckbit](https://www.speckbit.com) | Started my first startup at 16, while in high-school. I now coach & help students on starting up while in college. | I also teach people how to code & build things. | I'd love to talk about Python, Django, VueJS, jQuery, Student Makers, Starting Early & Hacking your way into Startups. Learn more at http://www.vidyadhar.xyz/about/
 
-
 ### Vinit Shahdeo
 Software Engineer at [Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) | Project Admin at [RGSoC](http://railsgirlssummerofcode.org/) & [GSSoC](https://www.gssoc.tech/) | Adores JavaScript | React, NodeJS, PWA | OOPS, TDD | Addicted to green dots on GitHub | Learn more about me [here](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo) | [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/) ❯ [GitHub](https://github.com/vinitshahdeo) ❯ [Twitter](https://twitter.com/Vinit_Shahdeo)
-
-### Souvik Saha
-Software Engineer at Microsoft. Key terms related to my work: React | Typescript | Javascript | Mobx | A11y. Fresher in the industry. Graduated from IIT Dhanbad. Aspiring community speaker. Learn more about me > [LinkedIn](https://www.linkedin.com/in/xanthis23/) | [Twitter](https://twitter.com/xanthis23)
