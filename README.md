@@ -87,7 +87,7 @@ Know more about him on [LinkedIn](https://www.linkedin.com/in/yadavsudhanshu/) |
 Co-Founder at Requestly. Worked as a Software Developer at Amazon and as a Product Manager at Meesho in the past. Loves books and consistency. More at https://swapnil.net
 
 ### Srinivas Gowda
-Sr Frontend Developer at a London based Fintech company (Preqin), worked as a game devloper for Smaaash in the past, started IT carrer as a Deployment Engineer at IBM. I work across the full JavaScript stack and a variety of other technologies. Find out more at https://www.solancer.com https://www.linkedin.com/in/solancer/
+Sr Frontend Developer at a London based Fintech company (Preqin), worked as a game devloper for Smaaash in the past, started IT career as a Deployment Engineer at IBM. I work across the full JavaScript stack and a variety of other technologies. Find out more at https://www.solancer.com https://www.linkedin.com/in/solancer/
 
 ### Tanay Pratap
 Engineer at Microsoft, works with React/Typescript/JavaScript. Likes to teach and give talks. Mentors students on various social media platforms. 
