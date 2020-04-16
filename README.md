@@ -59,6 +59,9 @@ Know more at [Linkedin](https://www.linkedin.com/in/agrawalkanishk3004/) [Twitte
 ### Naman Kheterpal
 JS Enthusiast @Adobe. Working Experience with all the JS frameworks and libraries (React, Preact, Angular, Ember, ReactNative, Ionic, Electron......). Contributor in PReact and Unistore. Run online web dev comunity (connect me likenIn if interested to join). Mentor and help upcoming talent to grow in JS world, prepare for interview and make own products. Would love to connect with you https://www.linkedin.com/in/namankheterpal/
 
+### Neha Nupoor
+Engg @Uber. Anything JS | Software | Mental health and Work | WomenInTech | Doodling [LinkedIn] (https://www.linkedin.com/in/neha-nupoor-143a4625/) [Twitter] (https://twitter.com/nupoor_neha) [Insta] (https://instagram.com/nupoor_neha)
+
 ### Nirav Madariya
 Cloud Developer at Infosys, India | Technologies : .net, Web Deveopment, jQuery, Azure | Microsoft Certified : Azure Solutions Architect Expert | Know More : https://niravmadariya.com
 
