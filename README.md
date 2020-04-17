@@ -84,6 +84,9 @@ Upcoming Software Developer at Microsoft, Redmond | Former intern at Microsoft, 
 ### Souvik Saha
 Software Engineer at Microsoft. Key terms related to my work: React | Typescript | Javascript | Mobx | A11y. Fresher in the industry. Graduated from IIT Dhanbad. Aspiring community speaker. Learn more about me > [LinkedIn](https://www.linkedin.com/in/xanthis23/) | [Twitter](https://twitter.com/xanthis23)
 
+### Srijan R Shetty
+CTO, Co-Founder [handl.money](https://handl.money). Ex HFT/PM/Full Stack Dev at Goldman Sachs. Ex Microsoft Research.  Java | Python | React | Typescript | Javascript | Distributed Systems | Linux. IITK '15. Learn more about me > [blog](https://srijanshetty.in) | [GitHub](https://github.com/srijanshetty) | [LinkedIn](https://www.linedin.com/in/srijanshetty)
+
 ### Sudhanshu Yadav
 Frontend Architect at HackerRank. Tooling, JavaScript, React and Internals of libraries are areas of interest. An active open source contributor and love to talk about Frontend technologies, Architecture, and Patterns. 
 Know more about him on [LinkedIn](https://www.linkedin.com/in/yadavsudhanshu/) | [GitHub](https://github.com/s-yadav) | [Twitter](https://twitter.com/_syadav)
