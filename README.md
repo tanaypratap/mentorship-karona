@@ -53,7 +53,7 @@ Software Engineer at Google India. I can help with Web Architecture and Career D
 [LinkedIn](https://www.linkedin.com/in/chirgjn) [Twitter](https://twitter.com/cjTheDev)
 
 ### Kamlesh Chandnani
-Staff Frontend Engineer at Razorpay. Organises [ReactBangalore Meetup](https://twitter.com/ReactBangalore), [tinyconf](https://twitter.com/atinyconf) and [React Day Bangalore Conference](https://twitter.com/ReactDayIn). Likes to talk and write about Developer Experience, Tooling, React, Design System and Life. Find more at [kamleshchandnani.com](https://kamleshchandnani.com), [Twitter](https://twitter.com/_kamlesh_).
+Frontend Engineer at Razorpay. Organises [ReactBangalore Meetup](https://twitter.com/ReactBangalore), [tinyconf](https://twitter.com/atinyconf) and [React Day Bangalore Conference](https://twitter.com/ReactDayIn). Likes to talk and write about Developer Experience, Tooling, React, Design System and Life. Find more at [kamleshchandnani.com](https://kamleshchandnani.com), [Twitter](https://twitter.com/_kamlesh_).
 
 ### Kanishk Agrawal
 UI Engineer at Flipkart, graduated from IIIT-G in 2018. Works on JavaScript, React, Angular, CSS. Likes teaching, taught over 20K Students for IITJEE in past. 
