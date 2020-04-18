@@ -34,11 +34,11 @@ After each event is scheduled mentors/student group need to raise a **PR** here 
 - Speaker: Vivit Shadeo
 - Initiated by: [Riya Suntwal](https://github.com/carrisunrio)
 - Community: Skillenza Hustler Community
-- Details:
-      * Introduction to Competitive Programming
-      * Algorithm, Design and Analysis
-      * Competitive programming paradigm and basics
-      * What are the essentials every competitive programmer should know?
-      * Top 10 Competitive Coding contests
+- Details:  
+    * Introduction to Competitive Programming
+    * Algorithm, Design and Analysis
+    * Competitive programming paradigm and basics
+    * What are the essentials every competitive programmer should know?
+    * Top 10 Competitive Coding contests
 - Date: 22nd April,2020 Timing: 6:00 PM (IST)
 - Link to be updated
