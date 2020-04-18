@@ -108,6 +108,6 @@ Full-Stack Maker. Founder @ [Speckbit](https://www.speckbit.com) | Started my fi
 Software Engineer at [Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) | Project Admin at [RGSoC](http://railsgirlssummerofcode.org/) & [GSSoC](https://www.gssoc.tech/) | Adores JavaScript | React, NodeJS, PWA | OOPS, TDD | Addicted to green dots on GitHub | Learn more about me [here](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo) | [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/) ❯ [GitHub](https://github.com/vinitshahdeo) ❯ [Twitter](https://twitter.com/Vinit_Shahdeo)
 
 ### Anusha Rao
-Web Development Engineer at [Oyo Rooms](https://www.oyorooms.com/) | Love Web Dev | JS Enthusiast / Do not hate CSS at all | Love to teach any topics related to Web development, HTML, CSS, majorly React JS. | Personal site in the making | [LinkedIn](https://www.linkedin.com/in/anusharao/)
+Web Development Engineer at [Oyo Rooms](https://www.oyorooms.com/) | Love Web Dev | JS Enthusiast / Do not hate CSS at all | Love to teach any topics related to Web development, HTML, CSS, majorly React JS | Personal site in the making | [LinkedIn](https://www.linkedin.com/in/anusharao/)
 [Twitter](https://twitter.com/anrao91)
 
