@@ -10,7 +10,7 @@ After each event is scheduled mentors/student group need to raise a **PR** here 
 
 ## 1.) Open Source Development:
 - Speaker: Ameer Jhan-Developer at olxpeople
-- Initiated by [Vishal SIngh](https://github.com/singhv1shal)
+- Initiated by [Vishal Singh](https://github.com/singhv1shal)
 - Fractal: The Coding Club, IET Lucknow 
 - All the 𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 enthusiasts are invited to join the session; there you will get answer to all your queries like-
     * Why a student should do Open Source?
