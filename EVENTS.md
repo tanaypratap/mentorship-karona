@@ -32,7 +32,7 @@ After each event is scheduled mentors/student group need to raise a **PR** here 
 - [Registration form](https://forms.gle/6AydBeGHEKn9C3JL7)
 
 ## 3.) Session on Competitive Programming
-- Speaker: Vivit Shadeo
+- Speaker: Vinit Shahdeo-Software Engineer at Postman
 - Initiated by: [Riya Suntwal](https://github.com/carrisunrio)
 - Community: Skillenza Hustler Community
 - Details:  
