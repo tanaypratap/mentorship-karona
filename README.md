@@ -81,6 +81,10 @@ Frontend developer at Crowdfire. Previously worked in Reliance Jio. Have 4 years
 ### Shashwat Jolly
 Upcoming Software Developer at Microsoft, Redmond | Former intern at Microsoft, Banglore | Final year student at IIT Guwahati | Has done a little of many things - JavaScript, TypeSctipt, React, Node, Django, Open Source and Competitive Programming | Still figuring out life :) | Find him at https://www.linkedin.com/in/shashwatjolly/
 
+### Shubhankar Mohan
+
+AI Engineer at Impact Analytics. M. Tech from IIIT-G. Have been in working in ML, Classical and Deep Computer Vision and Mathematical Optimization. Have taken various workshops and seminars in colleges on topics related to Robotics, AI and Programming. Learn more about me > [Linkedin](https://www.linkedin.com/in/shubhankarmohan/) | [Kaggle](https://www.kaggle.com/bitthal)
+
 ### Souvik Saha
 Software Engineer at Microsoft. Key terms related to my work: React | Typescript | Javascript | Mobx | A11y. Fresher in the industry. Graduated from IIT Dhanbad. Aspiring community speaker. Learn more about me > [LinkedIn](https://www.linkedin.com/in/xanthis23/) | [Twitter](https://twitter.com/xanthis23)
 
