@@ -41,7 +41,7 @@ After each event is scheduled mentors/student group need to raise a **PR** here 
 - Community: The CodeClub SMVDU and Microsoft Student Partners India
 - This will be a session on Game Development using JavaScript by Aditya Agarwal, software developer at HackerRank followed by an open QnA. 
 - Date: 25th April,2020 Timing: 4:00 PM - 5:00 PM (IST)
-- Microsoft Teams (Details Pending)  
+- Microsoft Teams [Join here](https://bit.ly/2VPiKVT)  
    - Poster
 ![0](https://user-images.githubusercontent.com/33570551/79624769-97ed7380-8141-11ea-814d-89e8c697c5e9.jpg)
 
