@@ -48,6 +48,9 @@ Developer @olxpeople, I have infinite love for JavaScript and opensource. I love
 Developer at SAP Labs India, Mostly works with Go(Golang), JavaScript(Node.js), Kubernetes and Distributed System.
 More at https://ankuranand.com 
 
+### Ankush Dharkar
+Tech cofounder at a curation & social media platform, based out of Los Angeles, California | Worked as a web dev at Hotstar | I actively train new developers(for free), helping them get advanced industry skills and develop relevant soft-skills that help them grow in their career: [The real dev squad](https://github.com/The-Real-Dev-Squad), [Meetup group](https://www.meetup.com/Software-Engineering-and-Web-Development-Beginner-friendly/), etc | Focus is on getting practical skills via relevant projects and tracking progress actively | Find me on: [LinkedIn](https://www.linkedin.com/in/ankushdharkar/) [Twitter](https://twitter.com/ankushdharkar)
+
 ### Anusha Rao
 Web Development Engineer at [Oyo Rooms](https://www.oyorooms.com/) | Love Web Dev | JS Enthusiast / Do not hate CSS at all | Love to teach any topics related to Web development, HTML, CSS, majorly React JS | Personal site in the making | [LinkedIn](https://www.linkedin.com/in/anusharao/)
 [Twitter](https://twitter.com/anrao91)
