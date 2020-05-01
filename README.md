@@ -41,6 +41,9 @@ Frontend Dev at HackerRank. Mostly work with JavaScript/React/CSS. Also does Nod
 ### Ajinkya Kolhe
 Data Analytics & Machine Learning Instructor at Google. Area of Expertise: Google Cloud & Machine Learning. Check linkedin profile for more details on https://www.linkedin.com/in/ajinkyakolhe112/
 
+### Amandeep Singh
+Independent Consultant, open source contributor, tech speaker and mentor for Web technologies including ReactJS, Javascript, CSS and more. Can be reached on twitter.com/learn_n_share
+
 ### Ameer Jhan
 Developer @olxpeople, I have infinite love for JavaScript and opensource. I love building scalable and maintainable applications using the right set of tools. I have expertise on React, Angular, Docker, Node, Kubernetes. Check my github profile for more details on https://www.github.com/ameerthehacker
 
