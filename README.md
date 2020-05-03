@@ -121,5 +121,6 @@ Full-Stack Maker. Founder @ [Speckbit](https://www.speckbit.com) | Started my fi
 ### Vinit Shahdeo
 Software Engineer at [Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) | Project Admin at [RGSoC](http://railsgirlssummerofcode.org/) & [GSSoC](https://www.gssoc.tech/) | Adores JavaScript | React, NodeJS, PWA | OOPS, TDD | Addicted to green dots on GitHub | Learn more about me [here](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo) | [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/) ❯ [GitHub](https://github.com/vinitshahdeo) ❯ [Twitter](https://twitter.com/Vinit_Shahdeo)
 
-
-
+### Yash Shah
+Software Engineer at Google | Former Intern at Media.net (Directi) | Former Intern at Microsoft | Graduated from VIT in 2019 , I would to guide people in competitive programming,I have been to ACM ICPC Regional 5 times. My handles on various competitive programming sites [Codeforces](https://codeforces.com/profile/zacker-22), [Codeforces](https://codeforces.com/profile/Jobless22), [Codechef](https://www.codechef.com/users/zacker_0123).
+To know more about me [Linkedin](https://www.linkedin.com/in/yashah22/)
