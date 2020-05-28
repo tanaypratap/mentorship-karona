@@ -44,4 +44,20 @@ After each event is scheduled mentors/student group need to raise a **PR** here 
 - Microsoft Teams [Join here](https://bit.ly/2VPiKVT)  
    - Poster
 ![0](https://user-images.githubusercontent.com/33570551/79624769-97ed7380-8141-11ea-814d-89e8c697c5e9.jpg)
+## 4.) Competetive Programming
+- Speaker: Yash Shah Developer Google
+- Initiated by [Anuj Puri](https://github.com/anujpuri72) 
+- Community: Coding Club IIITV
+- Details:  
+    * We had two sessions, one beginner friendly and one advanced
+    * Introduction to Competitive Programming
+    *  Basic Algorithms in one session
+    * How to analyze a problem correctly.
+    * Why compertetive programming is important irrespective of your firld of work as a Computer Science student?
+    * Advanced problems and algorithms(Dynamic Programming) in 2nd session
+    * Some Codeforces Problems were also solved in 2nd session 
+
+- Date: 16th May ,2020 Timing: 4:00 PM - 5:00 PM (IST) and 17th May ,2020 Timing: 4:00 PM - 5:00 PM  (IST)
+- [Recorded Session](https://bit.ly/3grlphR)  
+
 
