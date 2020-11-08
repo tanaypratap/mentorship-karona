@@ -48,13 +48,30 @@ Developer @olxpeople, I have infinite love for JavaScript and opensource. I love
 Developer at SAP Labs India, Mostly works with Go(Golang), JavaScript(Node.js), Kubernetes and Distributed System.
 More at https://ankuranand.com 
 
+### Ankush Dharkar
+Tech cofounder at a curation & social media platform, based out of Los Angeles, California | Worked as a web dev at Hotstar | I actively train new developers(for free), helping them get advanced industry skills and develop relevant soft-skills that help them grow in their career: [The real dev squad](https://github.com/The-Real-Dev-Squad), [Meetup group](https://www.meetup.com/Software-Engineering-and-Web-Development-Beginner-friendly/), etc | Focus is on getting practical skills via relevant projects and tracking progress actively | Find me on: [LinkedIn](https://www.linkedin.com/in/ankushdharkar/) [Twitter](https://twitter.com/ankushdharkar)
+
+### Anusha Rao
+Web Development Engineer at [Oyo Rooms](https://www.oyorooms.com/) | Love Web Dev | JS Enthusiast / Do not hate CSS at all | Love to teach any topics related to Web development, HTML, CSS, majorly React JS | Personal site in the making | [LinkedIn](https://www.linkedin.com/in/anusharao/)
+[Twitter](https://twitter.com/anrao91)
+
 ### Chirag Jain
 Software Engineer at Google India. I can help with Web Architecture and Career Development.
 [LinkedIn](https://www.linkedin.com/in/chirgjn) [Twitter](https://twitter.com/cjTheDev)
 
+### Gaurav Chandak
+Co-Founder at [workat.tech](https://workat.tech). Previously worked at Flipkart, Microsoft and Tracxn. I can help with Career Development, Interview Preparation and Competitive Programming. Preference: audienceSize > 50.
+[LinkedIn](https://www.linkedin.com/in/gcnit) [Twitter](https://twitter.com/gc_nit)
+
+### Kamlesh Chandnani
+Frontend Engineer at Razorpay. Organises [ReactBangalore Meetup](https://twitter.com/ReactBangalore), [tinyconf](https://twitter.com/atinyconf) and [React Day Bangalore Conference](https://twitter.com/ReactDayIn). Likes to talk and write about Developer Experience, Tooling, React, Design System and Life. Find more at [kamleshchandnani.com](https://kamleshchandnani.com), [Twitter](https://twitter.com/_kamlesh_).
+
 ### Kanishk Agrawal
 UI Engineer at Flipkart, graduated from IIIT-G in 2018. Works on JavaScript, React, Angular, CSS. Likes teaching, taught over 20K Students for IITJEE in past. 
 Know more at [Linkedin](https://www.linkedin.com/in/agrawalkanishk3004/) [Twitter](https://twitter.com/KanishkAgrawal).
+
+### Muskein Singh
+Building React Native and React Native for Web @Flipkart. Hit me up for anything frontend. Trying out new things, every other day. Neither a Jack, nor a King. Know more at [Linkedin](https://www.linkedin.com/in/muskein-singh-68808070/) [Twitter](https://twitter.com/Muskein) [Github](https://github.com/muskeinsingh) [Website](https://muskein.com/).
 
 ### Naman Kheterpal
 JS Enthusiast @Adobe. Working Experience with all the JS frameworks and libraries (React, Preact, Angular, Ember, ReactNative, Ionic, Electron......). Contributor in PReact and Unistore. Run online web dev comunity (connect me likenIn if interested to join). Mentor and help upcoming talent to grow in JS world, prepare for interview and make own products. Would love to connect with you https://www.linkedin.com/in/namankheterpal/
@@ -81,6 +98,10 @@ Frontend developer at Crowdfire. Previously worked in Reliance Jio. Have 4 years
 ### Shashwat Jolly
 Upcoming Software Developer at Microsoft, Redmond | Former intern at Microsoft, Banglore | Final year student at IIT Guwahati | Has done a little of many things - JavaScript, TypeSctipt, React, Node, Django, Open Source and Competitive Programming | Still figuring out life :) | Find him at https://www.linkedin.com/in/shashwatjolly/
 
+### Shubhankar Mohan
+
+AI Engineer at Impact Analytics. M. Tech from IIIT-G. Have been in working in ML, Classical and Deep Computer Vision and Mathematical Optimization. Have taken various workshops and seminars in colleges on topics related to Robotics, AI and Programming. Learn more about me > [Linkedin](https://www.linkedin.com/in/shubhankarmohan/) | [Kaggle](https://www.kaggle.com/bitthal)
+
 ### Souvik Saha
 Software Engineer at Microsoft. Key terms related to my work: React | Typescript | Javascript | Mobx | A11y. Fresher in the industry. Graduated from IIT Dhanbad. Aspiring community speaker. Learn more about me > [LinkedIn](https://www.linkedin.com/in/xanthis23/) | [Twitter](https://twitter.com/xanthis23)
 
@@ -106,3 +127,7 @@ Full-Stack Maker. Founder @ [Speckbit](https://www.speckbit.com) | Started my fi
 
 ### Vinit Shahdeo
 Software Engineer at [Postman](https://medium.com/@vinitshahdeo/software-engineering-internship-experience-at-postman-182df16ef33f) | Project Admin at [RGSoC](http://railsgirlssummerofcode.org/) & [GSSoC](https://www.gssoc.tech/) | Adores JavaScript | React, NodeJS, PWA | OOPS, TDD | Addicted to green dots on GitHub | Learn more about me [here](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo) | [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/) ❯ [GitHub](https://github.com/vinitshahdeo) ❯ [Twitter](https://twitter.com/Vinit_Shahdeo)
+
+### Yash Shah
+Software Engineer at Google | Former Intern at Media.net (Directi) | Former Intern at Microsoft | Graduated from VIT in 2019 , I would to guide people in competitive programming,I have been to ACM ICPC Regional 5 times. My handles on various competitive programming sites [Codeforces](https://codeforces.com/profile/zacker-22), [Codeforces](https://codeforces.com/profile/Jobless22), [Codechef](https://www.codechef.com/users/zacker_0123).
+To know more about me [Linkedin](https://www.linkedin.com/in/yashah22/)
