@@ -41,6 +41,11 @@ Frontend Dev at HackerRank. Mostly work with JavaScript/React/CSS. Also does Nod
 ### Ajinkya Kolhe
 Data Analytics & Machine Learning Instructor at Google. Area of Expertise: Google Cloud & Machine Learning. Check linkedin profile for more details on https://www.linkedin.com/in/ajinkyakolhe112/
 
+### Aman Sharma
+Chief Technology Officer at [Twimbit](https://twimbit.com) and Lead at [Mobile-web.dev](https://mobile-web.dev).Top 10 most inspiring CTO's of India at 21. Tech Speaker and Blogger.<br>
+Area of expertise: Enterprenuership, UX, Cloud & Serverless, PWA, AMP, Recommender Systems, NLP, Wordpress, ReactJs and Flask. <br>
+[Website](https://amansharma.dev) [Github](https://www.github.com/amanintech) [LinkedIn](https://www.linkedin.com/in/amanintech)
+
 ### Ameer Jhan
 Developer @olxpeople, I have infinite love for JavaScript and opensource. I love building scalable and maintainable applications using the right set of tools. I have expertise on React, Angular, Docker, Node, Kubernetes. Check my github profile for more details on https://www.github.com/ameerthehacker
 
