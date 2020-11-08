@@ -66,6 +66,9 @@ Frontend Engineer at Razorpay. Organises [ReactBangalore Meetup](https://twitter
 UI Engineer at Flipkart, graduated from IIIT-G in 2018. Works on JavaScript, React, Angular, CSS. Likes teaching, taught over 20K Students for IITJEE in past. 
 Know more at [Linkedin](https://www.linkedin.com/in/agrawalkanishk3004/) [Twitter](https://twitter.com/KanishkAgrawal).
 
+### Muskein Singh
+Building React Native and React Native for Web @Flipkart. Hit me up for anything frontend. Trying out new things, every other day. Neither a Jack, nor a King. Know more at [Linkedin](https://www.linkedin.com/in/muskein-singh-68808070/) [Twitter](https://twitter.com/Muskein) [Github](https://github.com/muskeinsingh) [Website](https://muskein.com/).
+
 ### Naman Kheterpal
 JS Enthusiast @Adobe. Working Experience with all the JS frameworks and libraries (React, Preact, Angular, Ember, ReactNative, Ionic, Electron......). Contributor in PReact and Unistore. Run online web dev comunity (connect me likenIn if interested to join). Mentor and help upcoming talent to grow in JS world, prepare for interview and make own products. Would love to connect with you https://www.linkedin.com/in/namankheterpal/
 
