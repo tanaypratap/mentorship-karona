@@ -59,6 +59,10 @@ Web Development Engineer at [Oyo Rooms](https://www.oyorooms.com/) | Love Web De
 Software Engineer at Google India. I can help with Web Architecture and Career Development.
 [LinkedIn](https://www.linkedin.com/in/chirgjn) [Twitter](https://twitter.com/cjTheDev)
 
+### Gaurav Chandak
+Co-Founder at [workat.tech](https://workat.tech). Previously worked at Flipkart, Microsoft and Tracxn. I can help with Career Development, Interview Preparation and Competitive Programming. Preference: audienceSize > 50.
+[LinkedIn](https://www.linkedin.com/in/gcnit) [Twitter](https://twitter.com/gc_nit)
+
 ### Kamlesh Chandnani
 Frontend Engineer at Razorpay. Organises [ReactBangalore Meetup](https://twitter.com/ReactBangalore), [tinyconf](https://twitter.com/atinyconf) and [React Day Bangalore Conference](https://twitter.com/ReactDayIn). Likes to talk and write about Developer Experience, Tooling, React, Design System and Life. Find more at [kamleshchandnani.com](https://kamleshchandnani.com), [Twitter](https://twitter.com/_kamlesh_).
 
