@@ -59,6 +59,10 @@ Web Development Engineer at [Oyo Rooms](https://www.oyorooms.com/) | Love Web De
 Software Engineer at Google India. I can help with Web Architecture and Career Development.
 [LinkedIn](https://www.linkedin.com/in/chirgjn) [Twitter](https://twitter.com/cjTheDev)
 
+### Divanshu Aggarwal
+Software Engineer II at Microsoft Github. Previously worked at Swiggy and Fidelity Investments. I can help with backend developmnent, cloud technologies, dsa and system design inteview preparations.
+[LinkedIn](https://www.linkedin.com/in/divanshu-aggarwal-5a244aa2/)
+
 ### Gaurav Chandak
 Co-Founder at [workat.tech](https://workat.tech). Previously worked at Flipkart, Microsoft and Tracxn. I can help with Career Development, Interview Preparation and Competitive Programming. Preference: audienceSize > 50.
 [LinkedIn](https://www.linkedin.com/in/gcnit) [Twitter](https://twitter.com/gc_nit)
